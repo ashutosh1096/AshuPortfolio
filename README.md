@@ -11,8 +11,6 @@ This project showcases my skills, projects, and experience as a Frontend Develop
 
 ---
 
-## 📂 Project Structure
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
