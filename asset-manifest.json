@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AshuPortfolio/static/css/main.a287383d.css",
+    "main.js": "/AshuPortfolio/static/js/main.bbec2bd3.js",
+    "static/js/453.708fe8a4.chunk.js": "/AshuPortfolio/static/js/453.708fe8a4.chunk.js",
+    "static/media/WebsiteBuilder.jpg": "/AshuPortfolio/static/media/WebsiteBuilder.96581d5c506e719c65d0.jpg",
+    "static/media/ServiceClass.png": "/AshuPortfolio/static/media/ServiceClass.9324d99aa37497fa1309.png",
+    "static/media/MissedCheckout.jpg": "/AshuPortfolio/static/media/MissedCheckout.f82d3c097d8b0ff4819f.jpg",
+    "static/media/AshutoshSingh_MMMUT.pdf": "/AshuPortfolio/static/media/AshutoshSingh_MMMUT.245500446e6e4c6eeabe.pdf",
+    "static/media/home-main.svg": "/AshuPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/AshuPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/EmployeeProfile.png": "/AshuPortfolio/static/media/EmployeeProfile.5ea5c54a98b9636044ea.png",
+    "static/media/FailedPayment.png": "/AshuPortfolio/static/media/FailedPayment.ef5ca3543b21342175f1.png",
+    "static/media/LiveIssue.webp": "/AshuPortfolio/static/media/LiveIssue.49e50ccf440c5f1a05e3.webp",
+    "static/media/Pending.jpg": "/AshuPortfolio/static/media/Pending.ddc5a650a0f7c2027cc8.jpg",
+    "static/media/Payroll.jpg": "/AshuPortfolio/static/media/Payroll.1bcf4290af7f22d374a0.jpg",
+    "static/media/home-bg.jpg": "/AshuPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Unsigned.jpg": "/AshuPortfolio/static/media/Unsigned.ae650cea2f72ad2de31b.jpg",
+    "static/media/TimeCard.png": "/AshuPortfolio/static/media/TimeCard.0515f33e27b43e6f4e9b.png",
+    "static/media/avatar.svg": "/AshuPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/Theme.jpg": "/AshuPortfolio/static/media/Theme.98a203021dc0a7d27cef.jpg",
+    "static/media/pre.svg": "/AshuPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/AshuPortfolio/index.html",
+    "main.a287383d.css.map": "/AshuPortfolio/static/css/main.a287383d.css.map",
+    "main.bbec2bd3.js.map": "/AshuPortfolio/static/js/main.bbec2bd3.js.map",
+    "453.708fe8a4.chunk.js.map": "/AshuPortfolio/static/js/453.708fe8a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a287383d.css",
+    "static/js/main.bbec2bd3.js"
+  ]
+}
